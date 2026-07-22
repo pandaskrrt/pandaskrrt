@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=220&section=header&text=pandaskrrt&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Bug%20Hunter%20%7C%20Open%20Source&descSize=16&descAlignY=55&animation=0.5&theme=dark" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:21262d,75:161b22,100:0d1117&height=220&section=header&text=pandaskrrt&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Bug%20Hunter%20%7C%20Open%20Source&descSize=16&descAlignY=55&animation=0.5" width="100%"/>
 
 <br/>
 
@@ -10,8 +10,8 @@
 <br/>
 
 <a href="https://github.com/pandaskrrt">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pandaskrrt&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=A0A0A0&text_color=CCCCCC&ring_color=555555" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandaskrrt&layout=compact&theme=github-dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&langs_count=8" />
+  <img height="190em" src="https://github-readme-stats-sigma.vercel.app/api?username=pandaskrrt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&ring_color=30363d" />
+  <img height="190em" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=pandaskrrt&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&langs_count=8" />
 </a>
 
 <br/>
@@ -20,13 +20,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandaskrrt&theme=github-dark&hide_border=true&background=000000&ring=FFFFFF&fire=CCCCCC&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=AAAAAA&dates=666666" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandaskrrt&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=c9d1d9&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="100%" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,50:333333,100:000000&height=120&section=footer&theme=dark" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,25:161b22,50:21262d,75:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
