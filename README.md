@@ -11,7 +11,6 @@
 
 <a href="https://github.com/pandaskrrt">
   <img height="190em" src="https://github-readme-stats-sigma.vercel.app/api?username=pandaskrrt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&ring_color=30363d" />
-  <img height="190em" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=pandaskrrt&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&langs_count=8" />
 </a>
 
 <br/>
