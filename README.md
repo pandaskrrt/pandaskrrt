@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeatCarrier=true&width=800&height=180&lines=%3E+SYSTEM+ONLINE...;+>+SCANNING+REPOSITORIES...;+>+LOADING+SKILL+SETS...;+>+READY+FOR+DEPLOYMENT." alt="Terminal Typing" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandaskrrt&bg_color=0d1117&color=58a6ff&line=30363d&point=ffffff&area=true&area_color=161b22&hide_border=true" width="100%"/>
 
 <br/>
 <br/>
